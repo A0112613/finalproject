@@ -1,0 +1,48 @@
+html, body{
+	background-color:black;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	color: white;
+	background-image: url("http://www.ozwallpaper.com/wp-content/uploads/2015/06/rifle_gun_hd_background_wallpaper.jpg");
+}
+
+
+
+h3 {color:white;
+	height: 5%;
+	user-select: none;
+	text-align: center;
+	font-family: Georgia;
+	
+}
+
+
+#mySVGCanvas {
+	border: 5px solid ;
+	border-color: #47476b;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background-color: white;
+	background-image: url("http://image.sportsmansguide.com/dimage/reticle_107_ts.gif");
+	background-size: 100%;
+	background-position: center;
+	
+
+
+}
+
+input[type="checkbox"] {
+	color:red;
+}
+
+#instructions1 {
+	font-size: 12;
+	font-style: 
+	color: black;
+}
+
+
+
+
